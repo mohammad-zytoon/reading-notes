@@ -16,3 +16,4 @@ and reach goals, and we must work constantly on self-development.
 
 I am mohammad zytoon 28 years old i am electrical power engineer also now i am already in industrial automation
 master program i am looking forward to be a good programmer because it the world future.
+https://github.com/mohammad-zytoon/reading-notes
