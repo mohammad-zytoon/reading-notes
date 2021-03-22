@@ -13,10 +13,11 @@ https://github.com/mohammad-zytoon
 
 |Assignment              |                    link                   |
 |----------------------- |-------------------------------------------|
-|     Lab02a             |  [Learning Markdown](lab02a.md)           ||                                        
+|     Lab02a             |  [Learning Markdown](lab02a.md)           |                                        
 |     Read1              |  [The Coder's Computer	](read1.md)      |
 |     Read02a            |  [Learning Markdown](read02a.md)          |
 |     Read02b            | [Revisions and the Cloud](read02b.md)     |
 |     Read03             |[ Structure web pages with HTML](read03.md)|
 |     Read04             |[ Programming with JavaScript](read04a.md) |
 |     Read05             |[ Operators and Loops](read05.md)          |
+|     Read06             |[ Design web pages with CSS](read06.md)    |
