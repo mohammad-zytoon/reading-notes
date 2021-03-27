@@ -27,7 +27,7 @@ https://github.com/mohammad-zytoon
 
 |Assignment              |                    link                            |
 |----------------------- |----------------------------------------------------|
-|     Read: 01           |[Introductory HTML and JavaScript](201/Read:01.md)  |                                      
+|     Read: 01           |[Introductory HTML and JavaScript](201/class-01.md) |                                      
 |                        |                                                    |
 |                        |                                                    |
 |                        |                                                    |
