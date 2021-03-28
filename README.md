@@ -25,20 +25,20 @@ https://github.com/mohammad-zytoon
 
 ### **Code 201 Reading Notes**
 
-|Assignment              |                    link                            |
-|----------------------- |----------------------------------------------------|
-|     Read: 01           |[Introductory HTML and JavaScript](201/class-01.md) |                                      
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
-|                        |                                                    |
+|Assignment              |                                      link                      |
+|----------------------- |----------------------------------------------------------------|
+|     Read: 01           |[Introductory HTML and JavaScript](201/class-01.md)             |         
+|     Read: 02           |[HTML, Css, and Basic JavaScript Instructions](201/class-02.md) |           
+|                        |                                                                |
+|                        |                                                                |
+|                        |                                                                |
+|                        |                                                                |
+|                        |                                                                |
+|                        |                                                                |
+|                        |                                                                |
+|                        |                                                                |
+|                        |                                                                |
+|                        |                                                                |
+|                        |                                                                |
+|                        |                                                                |
+|                        |                                                                |
