@@ -239,6 +239,6 @@ else
 
 - && — AND; allows you to chain together two or more expressions so that all of
  them have to individually evaluate to true for the whole expression to return true.
- 
-- || — OR; allows you to chain together two or more expressions so that one or more of 
+
+-OR; allows you to chain together two or more expressions so that one or more of 
 them have to individually evaluate to true for the whole expression to return true.
