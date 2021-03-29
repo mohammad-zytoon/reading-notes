@@ -25,11 +25,11 @@ https://github.com/mohammad-zytoon
 
 ### **Code 201 Reading Notes**
 
-|Assignment              |                                      link                      |
+|Assignment              |                            link                                |
 |----------------------- |----------------------------------------------------------------|
 |     Read: 01           |[Introductory HTML and JavaScript](201/class-01.md)             |         
 |     Read: 02           |[HTML, Css, and Basic JavaScript Instructions](201/class-02.md) |           
-|                        |                                                                |
+|     Read: 03           |[HTML Lists, CSS Boxes, JS Control Flow](201/class-03.md)       |
 |                        |                                                                |
 |                        |                                                                |
 |                        |                                                                |
