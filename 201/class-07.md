@@ -18,6 +18,7 @@
 6-Use the this variable within methods so you can access the object's properties and methods from inside.
 
 
+
 ## **From the Duckett HTML book**
 
 ### *Ch-6-Tables*
@@ -39,10 +40,12 @@
 
 
 
+
+
 ## **From the Duckett JS Book**
 
 
-## *Ch-3-Functions, Methods, and Objects*
+### *Ch-3-Functions, Methods, and Objects*
 
  -Functions allow you to group a set of related 
   statements together that represent a single task.
