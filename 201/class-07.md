@@ -16,7 +16,9 @@
 5-Store the newly created object in a variable so you can access its properties and methods from outside.
 
 6-Use the this variable within methods so you can access the object's properties and methods from inside.
-______________________________________________________________________________________________________________
+
+
+_________________________________________________________________________________________________________________________
 
 
 
