@@ -33,7 +33,7 @@ https://github.com/mohammad-zytoon
 |     Read: 04           |[HTML Links, CSS Layout, JS Functions](201/class-04.md)         |
 |     Read: 05           |[HTML Images; CSS Color & Text](201/class-05.md)                |
 |     Read: 06           |[JS Object Literals; The DOM](201/class-06.md)                  |
-|                        |                                                                |
+|     Read: 07           |[Object-Oriented Programming, HTML Tables](201/class-07.md)     |
 |                        |                                                                |
 |                        |                                                                |
 |                        |                                                                |
