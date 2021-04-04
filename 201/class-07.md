@@ -16,6 +16,7 @@
 5-Store the newly created object in a variable so you can access its properties and methods from outside.
 
 6-Use the this variable within methods so you can access the object's properties and methods from inside.
+______________________________________________________________________________________________________________
 
 
 
@@ -23,11 +24,11 @@
 
 ### *Ch-6-Tables*
 
--The <(table)> element is used to add tables to a web
+-The <table> element is used to add tables to a web
  page.
 
 -A table is drawn out row by row. Each row is created
- with the <(tr)> element.
+ with the <tr> element.
 
 -Inside each row there are a number of cells
  represented by the <(td)> element (or <(th)> if it is a header).
@@ -40,7 +41,7 @@
 
 
 
-
+ ____________________________________________________________________________________________________________________
 
 ## **From the Duckett JS Book**
 
