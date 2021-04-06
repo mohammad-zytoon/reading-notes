@@ -1,7 +1,7 @@
-# **From the Duckett HTML book**
+# From the Duckett HTML book
 
 
-## **Chapter-7-Forms**
+ **Chapter-7-Forms**
 
 -Whenever you want to collect information from
  visitors you will need a form, which lives inside a
@@ -16,10 +16,10 @@
 -HTML5 introduces new form elements which make it
  easier for visitors to fill in forms.
 
-_____________________________________________________________
+___________________________________________________________________
 
 
-### **Chapter-14- Lists, Tables & Forms**
+**Chapter-14- Lists, Tables & Forms**
 
 -In addition to the CSS properties covered in other
  chapters which work with the contents of all elements,
@@ -41,12 +41,12 @@ _____________________________________________________________
  interactive.
 
 
-_____________________________________________________________
+____________________________________________________________________
 
-# **From the Duckett JS book**
+# From the Duckett JS book
 
 
-## **Chapter-6-Events**
+## Chapter-6-Events
 
 -Events are the browser's way of indicating when
  something has happened (such as when a page has
