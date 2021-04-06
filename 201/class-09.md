@@ -3,7 +3,7 @@
 
 ## **Chapter-7-Forms**
 
--Whenever you want to c XX ollect information from
+-Whenever you want to collect information from
  visitors you will need a form, which lives inside a
  <form> element.
 
@@ -16,7 +16,7 @@
 -HTML5 introduces new form elements which make it
  easier for visitors to fill in forms.
 
-
+_____________________________________________________________
 
 
 ### **Chapter-14- Lists, Tables & Forms**
@@ -41,7 +41,7 @@
  interactive.
 
 
-
+_____________________________________________________________
 
 # **From the Duckett JS book**
 
