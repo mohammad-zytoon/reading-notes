@@ -35,7 +35,7 @@ https://github.com/mohammad-zytoon
 |     Read: 06           |[JS Object Literals; The DOM](201/class-06.md)                  |
 |     Read: 07           |[Object-Oriented Programming, HTML Tables](201/class-07.md)     |
 |     Read: 08           |[More CSS Layout](201/class-08.md)                             |
-|     Read: 08           |[Forms and Events](201/class-09.md)                             |
+|     Read: 09           |[Forms and Events](201/class-09.md)                             |
 |                        |                                                                |
 |                        |                                                                |
 |                        |                                                                |
