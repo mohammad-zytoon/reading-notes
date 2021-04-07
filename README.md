@@ -34,9 +34,9 @@ https://github.com/mohammad-zytoon
 |     Read: 05           |[HTML Images; CSS Color & Text](201/class-05.md)                |
 |     Read: 06           |[JS Object Literals; The DOM](201/class-06.md)                  |
 |     Read: 07           |[Object-Oriented Programming, HTML Tables](201/class-07.md)     |
-|     Read: 08           |[More CSS Layout](201/class-08.md)                             |
+|     Read: 08           |[More CSS Layout](201/class-08.md)                              |
 |     Read: 09           |[Forms and Events](201/class-09.md)                             |
-|                        |                                                                |
+|     Read: 10           |[Error Handling & Debugging](201/class-09.md)                   |
 |                        |                                                                |
 |                        |                                                                |
 |                        |                                                                |
