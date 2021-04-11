@@ -36,8 +36,8 @@ https://github.com/mohammad-zytoon
 |     Read: 07           |[Object-Oriented Programming, HTML Tables](201/class-07.md)     |
 |     Read: 08           |[More CSS Layout](201/class-08.md)                              |
 |     Read: 09           |[Forms and Events](201/class-09.md)                             |
-|     Read: 10           |[Error Handling & Debugging](201/class-09.md)                   |
-|                        |                                                                |
+|     Read: 10           |[Error Handling & Debugging](201/class-10.md)                   |
+|     Read: 11           |[Assorted Topics](201/class-11-.md)                             |
 |                        |                                                                |
 |                        |                                                                |
 |                        |                                                                |
