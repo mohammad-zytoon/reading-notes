@@ -50,12 +50,5 @@ ___________________________________________________________________________
   I would approach creating visuals using canvas that way.
 
 
-**Drawing Text:**
-___________________________________________________________________________
-
-- Okay, I'm really impressed by the rendering of canvas. Styling text inlcude
-  **font, textAlign, textBaseline, and direction values. It is a lot to take in
-  right now. I took another step of knowing what I didn't know. And now I feel 
-  like there is so much more I need to know.
 
 
