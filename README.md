@@ -38,7 +38,7 @@ https://github.com/mohammad-zytoon
 |     Read: 09           |[Forms and Events](201/class-09.md)                             |
 |     Read: 10           |[Error Handling & Debugging](201/class-10.md)                   |
 |     Read: 11           |[Assorted Topics](201/class-11-.md)                             |
-|                        |                                                                |
+|     Read: 12           |[Docs for the HTML <canvas> Element&Chart.js](201/class-12.md)  |
 |                        |                                                                |
 |                        |                                                                |
 |                        |                                                                |
