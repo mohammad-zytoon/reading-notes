@@ -42,3 +42,13 @@ https://github.com/mohammad-zytoon
 |     Read: 13a          |[Local Storage](201/class-13a.md)                               |
 |     Read: 13b          |[CSS Transforms, Transitions, and Animations](201/class-13b.md) |
 |     Read: 14           |[What Google Learned About Teams](201/class-14.md)              |
+
+
+
+
+
+### **Code 301 Reading Notes**
+
+|Assignment              |                            link                                |
+|----------------------- |----------------------------------------------------------------|
+|     Read: 01           |[Introduction to React and Components](301/Read01.md)           |
