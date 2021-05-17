@@ -52,3 +52,4 @@ https://github.com/mohammad-zytoon
 |Assignment              |                            link                                |
 |----------------------- |----------------------------------------------------------------|
 |     Read: 01           |[Introduction to React and Components](301/Read01.md)           |
+|     Read: 02           |[State and Props](301/Read02.md)                                |
