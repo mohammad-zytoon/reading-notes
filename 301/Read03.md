@@ -56,4 +56,21 @@ let employee = {
 
 - what is the first step that the developer does to pass functions between components?
   
-  - 
+  - increament function
+
+- what does the increment function do?
+  
+  - increase the counter  , when we click on add button.
+
+- How can you pass a method from a parent component into a child component?
+
+  - A parent component defines a function.
+  - The function is passed as a prop to a child component.
+  - The child component then invokes the prop.
+  - The parent function is then called, usually changing something.
+  - Then the parent component is re-rendered along with its children.
+
+
+- How does the child component invoke a method that was passed to it from a parent component?
+
+  - by this order:(this.refs.REF_NAME.METHOD_NAME)
