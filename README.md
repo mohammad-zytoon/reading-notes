@@ -55,3 +55,4 @@ https://github.com/mohammad-zytoon
 |     Read: 02           |[State and Props](301/Read02.md)                                |
 |     Read: 03           |[Passing Functions as Props](301/Read03.md)                     |
 |     Read: 04           |[React and Forms](301/Read03.md)                                |
+|     Read: 05           |[Putting it all together](301/Read05.md)                        |
