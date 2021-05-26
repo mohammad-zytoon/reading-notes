@@ -60,3 +60,4 @@ https://github.com/mohammad-zytoon
 |     Read: 07           |[REST](301/Read07.md)                                           |
 |     Read: 09           |[FUNCTIONAL PROGRAMMING](301/Read09.md)                         |
 |     Read: 10           |[In memory storage](301/Read10.md)                              |
+|     Read: 11           |[Authentication](301/Read11.md)                                 |
